@@ -1,521 +1,520 @@
 <NBSTEREOEEBOOK>
-  <VARIABLES numOfScreens="59" editmode="true"/>
-  
+  <VARIABLES numOfScreens="60" editmode="false"/>
+  <text_variables fontsize="14" headingfontsize="16" fontcolor1="0xEEEEEE" fontcolor2="0x000000" leading="2"/>
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>The first time I sailed past North Brother Island  was also the first time I heard about its history, that it was ruins, that Mary Malone (Typhoid Mary) had died there, and that the General Slocum landed there in flames. It was my first sail through the East River and we were more focused on getting through Hell's Gate at the flood under sail. I made a mental note, though, to come back here. The island had a strong gravitational pull. 
+About the 3D</TITLE>
+    <NOTES>The 3D images in this work were created with a technique that was developed by the Swiss artist Alfons Schilling. He discovered  alternating frame 3D (wiggle 3D) while experimenting with 3D vision and other optical phenomena.
 
-A few years later when Benton Bainbridge approached me to take him to North Brother for an art project I jumped at the offer. After researching the island we realized it made more sense to go through channels. On a brisk November day in 2006 we landed at North Brother in a Parks Department boat that we boarded on Roosevelt Island along with a city  forestry team.</NOTES>
-    <IMAGE file="map_map1.jpeg" imageX="696" imageY="423.3"/>
+This kind of 3D can be seen with one eye. It is subtler than methods of rendering 3D that send each image of a stereo pair to one eye or the other. Sending a left image to the left eye and a right image to the right eye reveals 3D that is deep; the entire field of view is in 3D. 
+
+Alternating frame 3D orients the two images of a stereo pair on top of each other with a point in space that is converged. The convergent point is nearly motionless, and the image twists around that point to reveal the space around it. The 3D emerges when the converged images are animated, alternating between the two images. If the animation is too slow or too fast, the brain cannot combine the images to create the experience of seeing 3D. 
+
+Use the sliders to control the animation speed and to change the convergence point.</NOTES>
+    <IMAGE file="" imageX="-1" imageY="-1"/>
+    <FILE>NB_0085_dot</FILE>
+  </PAGE>
+  <PAGE>
+    <TITLE>North Brother Island
+   Foreword</TITLE>
+    <NOTES>The first time I sailed past North Brother Island was also the first time I heard about its history. I learned that it was ruins, that Mary Mallon (Typhoid Mary) died there, and that the General Slocum landed there in flames. It was my first sail through the East River and we were focused on getting through Hell's Gate at the flood under sail. I made a mental note to come back here. The island had a strong gravitational pull.
+
+A few years later Benton Bainbridge approached me to take him to North Brother for an art project, Brother Islands. Benton had sailed with me before, so his original plan was to sail there on my boat along with
+the boat’s co-owner, Caleb Davison. It was
+early September, an ideal time (we thought)</NOTES>
+    <IMAGE file="map_map1.jpeg" imageX="698" imageY="416.3"/>
     <FILE>NB_0076_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    The Fire and the Water, this time</TITLE>
-    <NOTES>Due to the ruined condition of the  landing site we had go ashore a few at time by kayak. I was immediately overwhelmed by our limited time and yet there was so much to look at and so much to shoot.
+    Foreword</TITLE>
+    <NOTES>for a sail to this historic island in the East River. North Brother Island is currently part of the Harbor Herons bird sanctuary and access is strictly controlled by New York City’s Department of Parks and Recreation.
 
-These ruins are the original ferry terminal which was near where we had landed.
-
-
-
-Though this is a kind of 3D that can be seen by someone with one eye, it is more subtle than more traditional methods of rendering 3D where each image of a stereo pair are delivered to one eye or the other. Sending a left image to the left eye and a right image to the right eye reveals 3D that is deep and the entire field of view is in 3D. 
-
-Wiggle 3D orients the two images of a stereo pair on top of each other where a point in space is converged. The convergent point is motionless or nearly so, and the rest of the image will twist around the convergent point revealing the space around that point. 
-
-The top slider controls the speed of switching between the two images. The slider beneath it will change the convergent point, and in so doing you can explore the space of the photo and how it's rendered. Play around with the two sliders.</NOTES>
-    <IMAGE file="" imageX="702" imageY="306.25"/>
+The Black-crowned Night Heron’s breeding season runs from late March to early August; no one is permitted on the island from March through September. It turns out that nesting herons have an unfortunate habit of pushing their babies out of the nest if people get too close. We also learned that the island is riddled with uncovered manholes, so having guides on the island
+had a certain appeal. We decided it was best to hitch a ride on a motorboat. We</NOTES>
+    <IMAGE file="north_brother_satellite.jpg" imageX="699" imageY="410.25"/>
     <FILE>NB_0079_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>The city built Riverside Hospital on North Brother in 1885 to replace its original quarantine hospital, also called Riverside. The first Riverside Hospital was on Blackwell’s Island, now known as Roosevelt Island. 
+    Foreword</TITLE>
+    <NOTES>submitted a project proposal to the Natural Resources Group and waited; some people have waited years to be granted access. On a brisk November day in 2006 we landed at North Brother in a Parks Department boat that we boarded on Randalls Island along with the Forest Restoration Team. Due to the ruined condition of the landing site we had to go ashore a few at a time by kayak.
 
-Riverside's earliest patients suffered from typhoid, diptheria, smallpox, scarlet fever, tuberculosis, polio and leprosy (6 of the original patients were lepers). They were largely poor and predominantly immigrants: no one who could afford private care would choose to come here.
-
-The ferry brought patients, workers and supplies to the island from 132nd Street in the Bronx, conditions permitting. Riverside Hospital's early years were plagued by food shortages and harsh winters. Robert Martin, a survivor of the island, remarked that “the experience while there can be compared to the Black Hole of Calcutta.”</NOTES>
-    <IMAGE file="" imageX="701" imageY="300.25"/>
+There was so much to look at and so much to shoot. We were keenly aware of our limited time. I had taken along my new digital still camera, an old video camera and my Revere 3D camera. These 3D images are from the Revere shooting on Ektachrome slide.</NOTES>
+    <IMAGE file="Landing_stage_hospital_NBI.jpg" imageX="698" imageY="457.6" caption="The landing stage at Riverside Hospital. Originally printed: Cosmopolitan Magazine 1902 Credit: digitalhistoryproject.com"/>
     <FILE>NB_0033_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>By 1914, most of Riverside's patients were quarantined for tuberculosis or venereal diseases. Riverside functioned as a quarantine hospital for tuberculosis until its closing in 1942. A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
+    <NOTES>There are three islands in the upper stretch of New York City’s East River: Rikers Island, North Brother Island and South Brother Island. Rikers Island is strongly entrenched in the city’s mythology of its darkest self: if you can make it there, you can really make it anywhere. The twenty-acre North Brother Island and its smaller-eight acre companion, South Brother Island, occupy a space in the river between Rikers and the Bronx; they no longer occupy much space in the city’s mythology. 
 
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.</NOTES>
-    <IMAGE file="north_brother_satellite.jpg" imageX="701" imageY="427.25"/>
+Today, the Brother islands are best known to boaters and birders, as their current use is disuse: they are part of the Harbor Heron Islands bird sanctuary. Access to the islands is forbidden during the breeding season (late March to early August), and granted by permit only through the Department of Parks and Recreation. New York Water Taxi has been offering “Sunset Eco-Cruises to Harbor Heron Islands” in the summer. You won’t step onto North Brother, but if you bring some binoculars you can enjoy the view from the water.
+
+There was a time when North Brother Island was every bit as known, and feared, as
+Rikers Island. This is the story of the island</NOTES>
+    <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0037</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>
-      <LEFT>hospital for tuberculosis until its closing in 1942. A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
+    <NOTES>before North Brother’s abandoned hospital buildings became choked with kudzu and porcelain berry. Before the herons took it over, and then abandoned it (recent surveys show a decrease in signs of nesting activity), North Brother was home to the souls the city refused to shelter.
 
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
+The city built Riverside Hospital on North Brother in 1885. It replaced the city’s original quarantine hospital, also called Riverside. The first Riverside Hospital was on Blackwell's Island, later called Welfare Island, and now known as Roosevelt Island. Prior to the hospital’s development, North Brother’s only regular residents were the lighthouse keeper and his wife. In addition to the lighthouse, there was a small old frame shack, supposedly used as a “pesthouse” (an isolation house for infectious patients) by Westchester County. The island’s use at that point was limited to pests and picnics, and pasture for the lighthouse keeper’s sheep and cows.
 
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.</LEFT>
-      <RIGHT>By 1914, most of Riverside's patients were quarantined for tuberculosis or venereal diseases. Riverside functioned as a quarantine.
-
-A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
-
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
-
-A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
-
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
-
-A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
-
-Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.</RIGHT>
-    </NOTES>
-    <IMAGE file="north_brother_satellite.jpg" imageX="40" imageY="373.45"/>
-    <FILE></FILE>
-  </PAGE>
-  
-  <PAGE>
-    <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>North Brother's next incarnation as an adolescent drug treatment center was not nearly so happy. The city opened the rehab in 1952; it was closed by 1963, amid charges of corruption and failure.
-
-
-
-
-Originally I was simply enabling Benton to get to North Brother Island to shoot HD video for a show we eventually performed together at EyeBeam, along with a group of other artists. I had taken along my new digital still camera, an old video camera and my Revere 3D camera. Different sites I shot with different cameras. These photos are from the Revere shooting on Ektachrome slide.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+Riverside Hospital’s original facilities included a two-story brick hospital building “heated and ventilated with the most improved appliances.” (The New York Times July 3, 1885) The hospital was designed for</NOTES>
+    <IMAGE file="" imageX="698" imageY="457.6"/>
     <FILE>NB_0052_dot_02</FILE>
   </PAGE>
-  
-   <PAGE>
-    <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>
-      <LEFT>Starter Text</LEFT>
-      <RIGHT>Starter Text</RIGHT>
-    </NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
-    <FILE></FILE>
-  </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>This is one of the first buildings you see when you arive at the island. It was very decrepit and though we walked through other buildings before this, this building seemed too dangerous to explore the interior.</NOTES>
-    <IMAGE file="" imageX="540" imageY="485.29999999999995"/>
+    <NOTES>seventy-five patients, but the plans provided for ten additional frame buildings housing forty people each. Only three of these buildings were part of the original construction; by 1893, nine of these were built. The kitchen was in a separate building, and set up so smallpox patients had a separate kitchen from “fever patients.” There was also a two-story brick administration building, which would be used to house doctors, nurses and other hospital staff. The island had its own infrastructure: there was a building that generated the steam used to provide heat, and a small gashouse contributed gas for lighting. There was also a sewer system and a morgue.
+
+Riverside's earliest patients suffered from infectious diseases such as smallpox,</NOTES>
+    <IMAGE file="Smallpox_pavilion_Riverside_Hospital.jpg" imageX="699" imageY="427" caption="The main brick building at Riverside Hospital. Originally printed: Cosmopolitan Magazine 1902 Credit: digitalhistoryproject.com"/>
+    /&gt;
     <FILE>NB_0053_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>North Brother Island's most famous resident was Mary Mallon, better known as Typhoid Mary.  Mary emigrated to America from Cookstown (no kidding!), Ireland in 1869, at about the age of fifteen.  She was a talented cook, and earned a better living than she would have in another domestic service job.
+    <NOTES>typhus, scarlet fever, cholera, polio and even leprosy. They were largely poor and many were immigrants: no one with money would choose to come here. Yet, as a matter of public health policy, they came here in numbers that exceeded the hospital’s original capacity.
 
-She was hired to cook for a wealthy New York banker and his family at their rented summer house in Oyster Bay, Long Island in 1906. Six out of eleven people in that house fell ill with typhoid. 
-
-Typhus was not common in Oyster Bay at that time (it was primarily a disease of the poor, who lived in far more unsanitary conditions), and the owners of the house feared they would not be able to rent their property out again. They hired a sanitation engineer named George Soper to find the cause of the outbreak.</NOTES>
-    <IMAGE file="island_seen_from_river.jpeg" imageX="-1" imageY="-1"/>
+The Health Department’s steamboat, Franklin Edson, brought patients from Riverside’s reception hospital on East 16th Street to North Brother Island. That ferry ride took forty minutes; there was also a ferry that ran between 138th Street in the Bronx and the island, for Riverside’s rare voluntary visitors. Originally, patients quarantined in Riverside Hospital were not permitted to have any visitors at all. This restriction was
+loosened in 1902, when health officials
+realized they needed to rehabilitate the</NOTES>
+    <IMAGE file="Smallpox_Ferry_Franklin_Edsonfixed.jpg" imageX="700" imageY="463.6" caption="The Health Department's steamboat, Franklin Edson. Originally printed: Cosmopolitan Magazine 1902 Credit: digitalhistoryproject.com"/>
+    /&gt;
     <FILE>NB_0054</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>George Soper was the first to realize that the typhus-stricken households he was investigating all shared a middle-aged, single, heavy-set Irish cook. She changed jobs frequently, leaving weeks after each outbreak with no forwarding information. Soper's research eventually linked her to twenty two cases of typhoid fever in New York City and Long Island. 
+    <NOTES>hospital’s image in the face of damaging reports and rumors. 
 
-Mary did not suffer from typhus herself; she was healthy and physically robust. She was outraged by Soper's suggestion that she had caused the outbreaks and angrily refused to give him stool and urine samples. Legend has it that she threatened him with a meat cleaver.
+One of the city’s worst typhus outbreaks arrived on a boat full of immigrants in the late nineteenth century. The city had been mostly free of typhus for at least six years when the steamer Massilia arrived in New York harbor carrying 248 “Russian Hebrew” and 466 Italian passengers on January 30, 1892. 
 
-The New York City Health Department sent one of their own doctors, Dr. Sara Josephine Baker, to talk to Mary. Again, Mary protested that she had done nothing wrong and that she was being unjustly persecuted. Ultimately, it took Dr. Baker, a few police officers and some prison matrons to get the samples. The samples proved it: Mary's gall bladder was riddled with typhoid bacteria.</NOTES>
+The Jews’ journey from Odessa to America was epic: they left Odessa October 6 and arrived in Constantinople October 9. They stayed in Constantinople’s Jewish quarter (a “pesthole” according to the New York Times) for nearly three months, left Constantinople on December 22 and arrived in Smyrna on December 25. Turkey turned them away and they left Smyrna on December 27; they reached Marseilles on January 1. They stayed in France for two days, and sailed off to Naples, where they stayed for four days, until they sailed for the United States on January 7. They suffered in steerage on a rough 29-day Atlantic crossing from Marseilles; several were so ill on arrival in New York that the Superintendent of Immigration deemed the last leg of their</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0061</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>She was offered a deal: stop working as a cook, or have her gall bladder removed. Surgery at that time was extremely high-risk; she very likely could have died.  She refused to do either, adamantly denying that she was a carrier. She had already admitted to health officials that she saw no reason to wash her hands often while cooking. Faced with her complete refusal to cooperate, the Department of Health sent her to live in an isolated cottage on North Brother Island. 
+    <NOTES>ordeal—transferred from the Massilia to Ellis Island on an open barge in frigid weather--“inhuman, if not criminal.”
 
-Health officials claimed that sections 1169 and 1170 of the Greater New York Charter empowered them to quarantine even an apparently healthy woman like Mary Mallon:
+Fifty-seven of the Russian Jewish immigrants developed typhus after clearing the quarantine at Ellis Island. They were sent to Riverside on February 11, 1892. Healthy parents were sent along with their sick children, so seventy-one people were taken to Riverside initially. By the next day, the typhus count was up to sixty-eight, and Riverside had eleven more patients. The Department of Health located and examined almost all of the two hundred forty eight Russian Jewish immigrants in just two days from the initial diagnosis, a task that was simplified because the immigrants were concentrated in a handful of tenements on the Lower East Side. The United Hebrew Charities played a significant role in settling Russian Jewish immigrants; in this instance, their records facilitated locating the sick, heading off what could have been an epidemiological nightmare. 
 
-    The board of health shall use all reasonable means for ascertaining the existence and cause of disease or peril to life or health, and for averting the same, throughout the city. [Section 1169]
-
-    Said board may remove or cause to be removed to [a] proper place to be by it designated, any person sick with any contagious, pestilential or infectious disease; shall have exclusive charge and control of the hospitals for the treatment of such cases. [Section 1170]
-
-The charter was written before the mechanism of a healthy carrier was understood; technically, Section 1170 did not apply here, as Mary Mallon was not sick.</NOTES>
+Riverside Hospital expanded hastily to accommodate the typhus patients: four new permanent pavilions, about seventy-five feet in length with plumbing and heat, and</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0064</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>Two years into her confinement on North Brother, Mallon sued the city.  For nearly a year before the trial, Mallon sent stool samples to a private lab that determined they were negative for typhoid. 
-
-The city's tests showed different results: 120 of 163 samples tested positive.
-
-Mallon's lawsuit was rooted in her conviction that she had always enjoyed good health and that her own lab results proved it.
-
-    "This contention that I am a perpetual menace in the spread of typhoid germs is not true. My own doctors say I have no typhoid germs. I am an innocent human being. I have committed no crime and I am treated like an outcast -- a criminal. It is unjust, outrageous, uncivilized. It seems incredible that in a Christian community a defenseless woman can be treated in this manner."
-
-The judge found the city's test results more compelling, and Mallon lost her case. The Board of Health of the City of New York ordered her back to the cottage on North Brother Island.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    <NOTES>steam-heated hospital tents for those who had been exposed but were not sick were added. On March 6, all “suspects” (exposed, but not sick) were ordered to North Brother Island and isolated there until the threat of contagion had passed. All told, one hundred and thirty-eight cases of typhus developed among the original group of two hundred and forty-eight. The Health Department was initially optimistic that the Italian passengers had been isolated from the Russians on the Massilia, and were likely to be spared. Then the news filtered down from Newburg, NY that four of the Massilia’s Italian passengers had typhus. The Italians were harder to trace, being both more numerous and more scattered, and most were never quarantined.</NOTES>
+    <IMAGE file="russian_typhus_subjects_big.jpg" imageX="702" imageY="410.45" caption="Russian Jewish typhus patients. Originally printed: Cosmopolitan Magazine 1902 Credit: digitalhistoryproject.com"/>
     <FILE>NB_0065</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>In 1910, a new New York State Commissioner of Health, Eugene H. Porter, M.D., changed the quarantine policy concerning carriers that had led to Mallon's removal to North Brother. 
+    <NOTES>Despite the Times’ glowing description of Riverside’s original facilities, reports from the hospital’s earliest patients were frightening. The original physical plant couldn’t supply enough heat during the winters, and there were food shortages when conditions were too dangerous for supply boats to make the trip. The city’s newspapers breathlessly reported the charges made by Robert Martin, a lace maker who had been sent to Riverside with a mild case of smallpox on March 9, 1901.  He described an atmosphere of filth and neglect, including an absence of both medicine and food.  He charged, “…the experience while there can be compared to the Black Hole of Calcutta.”
 
-On February 19, 1910, Mallon accepted the deal she had rejected three years earlier. She agreed to stop working as a cook, and to take precautions to avoid spreading disease. She was freed.</NOTES>
+The Department of Health swung into damage control and took five newspapermen on to the island to dispel Martin’s charges. The Times’ coverage of that trip is subtitled, “Sensational Charges Made by an Ex-Patient on North Brother Island Are Not Borne Out.” Other patients went on the record to defend Riverside Hospital. A former scarlet fever patient wrote a letter to the editor that appeared in the Times on March 31, disputing all of Martin’s charges and describing the hospital as clean and well-staffed, with “food that was plain, but plentiful and of good quality.” Although</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0067</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>Mallon honored the terms of her release for a while, working as a laundress and in other positions of domestic service. These jobs offered neither the money, the status,  nor the satisfaction of cooking.
+    <NOTES>the charges did not hold up, the city recognized that it had a major PR problem on its hands. Reforms included making doctors more available (nurses were very often on their own in the early years), increasing the nursing staff, allowing patients to have visitors and installing telephones so patients could speak to their families.
 
-In January of 1915, the Sloane Maternity Hospital in Manhattan had a major outbreak of typhoid fever. Twenty-five people were infected; two of them died. 
+Jacob Riis, the well-known reporter and social reformer, threw his support behind Riverside. Riis’s groundbreaking book of photographs and social commentary How the Other Half Lives, subtitled "Studies Among the Tenements of New York", was published in 1890. His florid defense of Riverside Hospital appeared in Cosmopolitan Magazine in July of 1902:
 
-A recently-hired cook named Mrs. Brown was implicated. She was described as a heavy Irish-American woman and she had vanished when the outbreak began. She was found on a Long Island estate, cooking.</NOTES>
+“Today, where once was a waste of sand, are broad and shaded lawns; winding, well-kept walks, trees, shrubs and flowers; handsome, substantial buildings and hospital pavilions or wards, arranged on a plan securing perfect and absolute isolation with a maximum of comfort to the patients. One result is seen in a very low death rate, considering the character of the institution. Last year, before the importation of typhus fever in the shipload of Russian exiles, it was sixteen per cent of about 900 cases.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0067a</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>Once again, Mary Mallon was confined to her isolated cottage on North Brother Island. During her time on North Brother she worked as a "nurse," a "hospital helper," and in the hospital's lab. 
+    <NOTES>Another result that is of even more consequence is in the lessened terror of the hospital among the poor and ignorant. This dread, that robbed those who stood in direst need of the benefit designed for their relief, has always been one of the greatest hardships of the poor.” 
 
-Throughout her first quarantine, she was perceived as a sympathetic and tragic figure, deprived of her freedom through no fault of her own. The second time around, she was seen as a figure of horror and evil, a willful spreader of death.
+By 1914, typhus (improved hygiene) and smallpox (vaccination) were rare. Most of Riverside's patients were now quarantined for tuberculosis or venereal diseases. 
 
-It's uncertain exactly how many illnesses and deaths began with Typhoid Mary. At least three deaths and fifty one illnesses are laid at her door, but the numbers could actually be much higher.
-
-She suffered a massive stroke in December of 1932, and she died of pneumonia in 1938. An autopsy showed a liver that was heavily infected with Typhoid bacteria. 
-
-Her remains were cremated, and she was finally allowed off the island to be buried at St. Raymond’s Cemetery in the Bronx.</NOTES>
+There was a brief and early foray into drug rehabilitation from 1919-1920. Health Commissioner Dr. Royal S. Copeland transferred North Brother’s infectious disease patients to other city hospitals and turned Riverside Hospital into a drug treatment center. Many of the addicts treated there were returning World War I veterans. His initial optimism, “‘We will no longer be obliged to answer the question. ‘What is the city going to do with its drug addicts?’ There is no question now. The city is taking care of its drug addicts at the Riverside Hospital.” (New York Times, August 26, 1919) had soured by the rehab’s closing in April, 1920. The New York City Department of Health’s 1920 Annual Report laments, “Over 95% of all drug addicts</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0068</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES/>
+    <NOTES>treated at Riverside Hospital, from the beginning of service until now, have shown, by their acts, a non-appreciation for the service, and have repeatedly attempted to be discharged before the end of treatment, or have in some way interfered with its prosecution while there.Ó" Riverside would have a second, longer life as a drug treatment center for adolescents (1953-1963), with similarly dismal 
+
+Riverside once again became a quarantine hospital for tuberculosis until its closing by the Department of Health on April 11, 1944. During this period, Riverside Hospital continued to expand its physical presence on North Brother Island. A new service building opened in 1929 to house the hospital’s two hundred and sixty-five employees. The building cost $243,985 and replaced the original service building. It included dining rooms, dormitories and a refrigeration plant. Despite the continued investment in Riverside, the New York City Visiting Committee of the State Charities Aid Association issued a report in 1932 that deemed Riverside Hospital “unsuitable to the modern care of contagion” and asserted “a separate hospital for contagious diseases is no longer advocated.” In spite of the growing recognition that Riverside was too</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0069</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>The island had it's own power plant which burned coal to generate electricity. This shot is from inside the coal storage building.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    <NOTES>inefficient and expensive to run, construction of a large tuberculosis pavilion with 150 beds began in 1941. The project was frequently stalled due to reallocations of supplies during World War II. The pavilion was finally completed in 1943, at a cost of over one million dollars, but it was never used for its original purpose. The ambitious four-story building dwarfs the other structures on the island.
+
+After Riverside’s closing, North Brother Island was abandoned until it was repurposed for GI housing after the passing of the GI Bill following WWII. The city leased the island to the state and repairs were made to the derelict buildings. The first students on Riverside Campus attended Columbia,</NOTES>
+    <IMAGE file="tuberculosispavilion2.jpg" imageX="701" imageY="421.9" caption="Riverside Hospital, North Brother Island. General exterior, framed. (TB pavilion) Library of Congress, Prints &amp; Photographs Division, Gottscho-Schleisner Collection [reproduction number, LC-G612-T-44064 (interpositive)]"/>
     <FILE>NB_0078</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    <NOTES>Teachers College, Union Theological Seminary, NYU, Fordham, City College, Cornell University Medical School, NYU Medical College and the Juilliard School of Music. Single vets lived in dormitories in the tuberculosis pavilion, and other hospital buildings were converted into apartments for families. Residents ferried between North Brother and the E 134th Street Ferry Terminal in the Bronx on the boats Mott Haven and Greenwich Village. They shared the ferries with visitors to Rikers Island, which prior to the opening of the Rikers Island Bridge in 1966, was reachable only by boat. This was North Brother's golden age; the only time its inhabitants were happy to be there. Residents enjoyed tennis courts, a baseball field, and handball. There was even a small coffee shop and grocery store.
+
+The celebrity inhabitant from this period was Evan Hunter (the crime fiction writer Ed McBain) who would go on to write the novel Blackboard Jungle and the screenplay for Alfred Hitchcock's The Birds. He also wrote "Happy New Year, Herbie," a  short story set on North Brother Island. He describes the slapdash construction, the unending battle with roaches, and the romance of living on an island with other families who were just starting out. The story evokes the special</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0072</FILE>
   </PAGE>
-
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>Try adjusting the convergence point on this image.</NOTES>
+    <NOTES>“The island was literally an island, but it was also a figurative never-never land that was a part of the city and yet removed from it. It was, in a sense, a country club for paupers.”
+
+North Brother's next incarnation as an adolescent drug treatment center was not nearly so happy. In response to a growing drug problem, the city decided to reclaim North Brother’s hospital buildings from the state to house an adolescent drug rehabilitation program. The vets were out and the addicts were in; 140 beds were put into the TB pavilion for the benefit of recovering adolescent drug addicts. 
+
+The Commissioner of Hospitals, Dr. Marcus D. Kogel, offered a sobering assessment of the program’s first six months: [we would be] “less than frank if we were to say that the Riverside experience has been a completely happy one—it has been far from that.” He admitted that they had expected a younger and more malleable patient population; Riverside’s staff relied on reports from the Bellevue Hospital Psychiatric Division that asserted that “the adolescent involved with narcotics was passive, immature, well behaved and cooperative.” As the good doctor put it, “Such was not the case.”</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0001</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    <NOTES>Although the original vision was to serve addicts of high school age, sixty to seventy per cent of Riverside’s patients were at least nineteen years old, many were married and some even had children. 
+
+New York State spent one million dollars per year to run the drug program. In 1957, the New York State Health Commissioner Herman Hilleboe asked Dr. Ray E. Trussell, the director of the Columbia University School of Public Health to follow up with all of the two hundred forty seven addicts admitted to Riverside in 1955 to evaluate the program’s success. “It turned out,” Dr. Trussell explained, “that the best way to find these people was to keep an eye on hospital admissions and the admissions to penal institutions.” 
+
+Eighty six percent of Riverside’s class of ’55 was found in prisons or hospitals, including Riverside itself, in 1958.  Eleven out of the two hundred forty seven were dead, and two hundred twenty eight were jailed or hospitalized, or both, sometimes more than once. Dr. Trussell reported the eight who were drug-free in 1958 “to a man swore that they had never been addicted; they had been caught in possession, they had been committed, they had put in their time and</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0002</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    <NOTES>gone home,,,” Riverside Hospital’s own records confirmed that seven out of eight of these cases were not addicts. Dr. Trussell concluded that for addicts admitted to Riverside in 1955, the program’s “success rate [was] zero.” Despite the mounting evidence of failure, politicians who had supported the program were reluctant to shut it down. In 1961 Dr. Trussell became New York City’s Commissioner of Hospitals, and he had the honor of closing Riverside in 1963. And so the era of drug smuggling, sexual abuse, prostitution and unwanted pregnancies on North Brother Island came to a close.
+
+Six years later, Riverside Hospital was in the news again.  A former English teacher at the rehab, Don Petersen, wrote a play based on his experience teaching there. “Does a Tiger Wear a Necktie?” made it to Broadway in 1969, but closed after only nine previews and thirty-nine performances. Although some critics panned the playwright’s stereotypical portraits of the young addict/thugs, the idealistic young teacher, and the out of touch psychiatrist, they were united in their appreciation of the play’s strong performances. It was Al Pacino’s Broadway debut, and he won both a Tony and a Drama Desk award for his part as a</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0003</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    <NOTES>psychopathic teenage addict. Pacino recalled,  “‘It was a very important play for me. Francis Ford Coppola saw it and contacted me… The next year he called me with a film. It was “The Godfather.”’
+
+The city put North Brother Island up for sale in 1970, setting the opening bid at $1.1 million. Ultimately, no one wanted to put up the money to cover the costs of construction, transportation and a new sewage system, so North Brother’s next act as an amusement park/movie studio/casino-with-convention-center-and-hotel/power plant/urban village with monorail (Roosevelt Island?) never materialized. Bronx Borough President Bob Abrams wanted an environmental facility and park, and successfully killed the momentum for a corporate sale. Mario Cuomo contemplated building a prison there, but he abandoned the idea in 1985 when it became clear that costs could top $200 million. 
+
+North Brother continued to languish, overrun by vegetation and settled by birds. The History Channel featured North Brother Island in the eighth episode of the first season of its post-apocalyptic Life After People series. “Armed and Defenseless”</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0004</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    <NOTES>aired on June 9, 2009. It documents the decay of Riverside Hospital’s manmade structures and manicured landscape as they are choked by vines and subject to the wear of weather and water. Breaches in North Brother’s sea wall leave the island especially vulnerable to erosion; unless a concerted effort is made to preserve the remaining buildings, photographs will be the last remnants of New York City’s quarantine island.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0005</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>North Brother Island's most famous resident was Mary Mallon, better known as Typhoid Mary.  Mallon immigrated to America from Cookstown, County Tyrone, Ireland in 1884, at about the age of fifteen. She was part of a great wave of Irish immigrants: almost five million Irish came to the United States between 1830 and 1914. Mary’s life in Ireland would have been hard and hopeless. She traded it for a life in America that she thought would be simply hard.
+
+Like many immigrant Irish women of that period, Mallon worked in domestic service. She was a talented cook, and she eventually earned a decent living cooking for some of New York City’s wealthy families. Her position as a cook for the upper class was at the top of the ladder for a domestic servant. She worked long and hard to achieve her position, paying her dues in jobs of lesser prestige and pay such as laundress. Her status as a healthy carrier of typhoid fever sent her tumbling down the rungs of that ladder. She was one of the unlucky ones who contracted the disease and recovered,  but never cleared the bacteria from her body. She was as infectious as someone actively suffering with typhoid, though by all accounts she was healthy as an ox. Curiously, many other healthy carriers of</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0006</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>typhoid would be identified during the period of her isolation on North Brother Island. Mallon was the only one to draw a life sentence of confinement.
+
+Typhoid is spread through contaminated food and drink; many of the commonly accepted food handling practices in place today have their genesis in Typhoid Mary’s sad history. The Salmonella typhi bacteria are passed through the digestive tract and shed into the feces. Adequate plumbing and hand washing (vigorous scrubbing) are excellent defenses against the bacteria; wearing vinyl or latex gloves while preparing food is even better. Symptoms of the disease include a high fever, fatigue, weakness, stomach pains, headache, loss of appetite, and sometimes a rash. 
+
+Today, typhoid is rare in first world countries with good sanitation, but according to the Center for Disease Control, it still strikes about 21 million people a year around the world and kills about 200,000. The disease is treated with antibiotics and both oral and injected vaccines are available. Drug-resistant strains are on the rise and resistance to all three first-line antibiotics has been detected in Pakistan, India, China and the Arabian Gulf.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0007</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>In August of 1906, Mary Mallon was hired to cook for a New York banker, Charles Henry Warren, and his family at their rented summerhouse in Oyster Bay, Long Island. On August 27, the Warren’s young daughter fell sick. Six out of eleven people in that household developed typhoid, an uncommon disease in upscale Oyster Bay. Typhoid was a disease of the poor, easily spread in the unsanitary and crowded conditions found in city slums. The Warren’s Oyster Bay landlords needed to protect their future rental income and were determined to dispel the perception that their house was contaminated with typhoid’s taint. They brought in experts who examined all the usual causes of typhoid fever. The drinking water, the plumbing, dairy products, shell fish—all were investigated, and all were found to be fine. 
+
+They enlisted a sanitation engineer named George Soper to find the cause of the outbreak. Soper knew that typhoid incubated for ten to fourteen days.  He discovered that the Warrens had hired a new cook in the beginning of August, and that she had left weeks after the outbreak without leaving any forwarding information. Soper suspected the cook  immediately, but he was a careful and detail-oriented man.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0009</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+  Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>Armed with a description of the cook, he approached the employment agency that had placed her. He pieced together her employment history for the previous ten years and found a typhoid outbreak in every single one of her employer’s homes. His research eventually linked her to twenty-two cases of typhoid fever and one death in New York City and Long Island. 
+
+Mallon did not suffer from typhoid herself; she was healthy and physically robust. Germ theory was widely accepted by scientists by the end of the nineteenth century, though not necessarily by the public at large. Soper knew about healthy carriers; he might even have been aware of a case of a healthy typhoid carrier that had been documented in Germany. In March of 1907, following reports of a typhoid outbreak affecting a Park Avenue family, Soper tracked Mallon to her job and explained what he had discovered. He asked her for stool, urine and blood samples. He was excited by his discovery; he had uncovered the first healthy carrier of typhoid fever in North America.
+
+Mallon was not so excited. She was outraged by Soper's suggestion that she had caused the outbreaks and angrily refused to give him the samples. He later</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0021_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>complained that she threatened him with a carving fork, while cursing like a sailor. Soper knew he needed the samples to prove his hunch. Perhaps realizing that it wasn’t an especially good idea to approach her at work while her hands were in that night’s dinner, he decided to follow her home from work, to approach her there. Mallon was living with a sad sack alcoholic named Mr. Breihof in a boarding house on Thirty-third and Third. Soper ingratiated himself with Breihof by springing for a few drinks, and Breihof invited him up to the apartment, which Soper described as “a place of dirt and disorder.” Soper used Breihof to find out when Mary would be at the apartment, and he and another doctor laid in wait for her. When he was unsuccessful at getting the samples for a second time (more cursing, more denial), he involved the Department of Health.
+
+The New York City Health Department sent one of their own doctors, Dr. Sara Josephine Baker, to talk to Mary at her job on Park Avenue, where she was still cooking. No one warned Dr. Baker that Mallon was likely to be uncooperative. They just told her to get the samples. Again, Mary protested that she had done nothing wrong and that she was being unjustly persecuted.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0022_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>Slammed door, round one: Mary Mallon. The next day, it took Dr. Baker, five police officers and some prison matrons to get the samples. Dr. Baker later reported that she sat on Mallon the entire way to the hospital, with Mallon “…fighting and cursing, both of which she could do with astonishing vigor.” The samples proved it: Mallon's gall bladder was riddled with typhoid bacteria.</NOTES>
+    <IMAGE file="sarajosephinebaker.jpg" imageX="-1" imageY="-1" caption="Dr. Sara Josephine Baker. 1922. Collection: Images from the History of Medicine. (NLM)"/>
     <FILE>NB_0026_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>The press got a hold of the story, but did not identify Mary Mallon as Typhoid Mary. The New York American broke the story about the “Human Typhoid Germ” using the name “Mary Ilverson,” an alias provided by the Health Department. At this point, health officials were still trying to protect Mallon by hiding her identity, perhaps hoping that she would cooperate with them and then be on her way. Only two newspapers were covering the story at this point, the American and its rival, the New York World (also calling her Mary Ilverson). Both papers described the paradox of this “human culture tube,” (American) a “typhoid fever factory” (World) who is “rosy of cheek and buxom of form” (American), “a buxom woman, a cook, in perfect health.”
+
+She was offered a deal: stop working as a cook, or have her gall bladder removed, and she could go free. Although surgery was a suggested treatment for carriers, there was little evidence that it actually worked (which she probably didn’t know), and it was very risky (which she probably did know). In any case, surgery was a hard sell to someone who felt as healthy and strong as Mallon did. She refused to do either, adamantly denying that she was a carrier, or that she had ever been sick with typhoid. Faced with her</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0027</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>complete refusal to cooperate, the Department of Health sent her to live in an isolated cottage on North Brother Island. Health officials claimed that sections 1169 and 1170 of the Greater New York Charter empowered them to quarantine even an apparently healthy woman like Mary Mallon:
+
+    "The board of health shall use all reasonable means for ascertaining the existence and cause of disease or peril to life or health, and for averting the same, throughout the city." [Section 1169]    "Said board may remove or cause to be removed to [a] proper place to be by it designated, any person sick with any contagious, pestilential or infectious disease; shall have exclusive charge and control of the hospitals for the treatment of such cases." [Section 1170]
+
+The charter was written before the mechanism of a healthy carrier was understood; technically, Section 1170 did not apply here, as Mary Mallon was not sick.
+
+Two years into her confinement on North Brother, Mallon sued the city.  For nearly a year before the trial, Mallon sent stool samples (mostly likely via Mr. Breihof) to a private lab that deemed them negative for</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0029</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>typhoid. The city's tests showed different results: 120 of 163 samples tested positive. Mallon's lawsuit was rooted in her conviction that she had always enjoyed good health and that her own lab results proved it.
+
+    "This contention that I am a perpetual menace in the spread of typhoid germs is not true. My own doctors say I have no typhoid germs. I am an innocent human being. I have committed no crime and I am treated like an outcast -- a criminal. It is unjust, outrageous, uncivilized. It seems incredible that in a Christian community a defenseless woman can be treated in this manner."
+
+Mallon’s lawyer, George Francis O’Neill, argued that, “…If the mere statement that a person is infected with germs is sufficient then the person can be taken away from his or her home and family and locked up on North Brother Island. That is what has happened in this case.” At the time of her court date (June 29, 1909) before Justice Erlanger, Mallon was no longer the only identified healthy carrier of typhoid. Fifty additional cases had been uncovered just in New York State. None of them were permanently confined to Riverside or any</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0042</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+  Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>other institution. Clearly, all were not protected equally under the law.
+
+The judge found the city's test results more compelling than O’Neill’s plea for due process, and Mallon lost her case. “While the court deeply sympathizes with this unfortunate woman, it must protect the community against a recurrence of spreading the disease.” By rejecting the claim that Mallon was positive for typhoid, O’Neill never really challenged the Health Department’s stance on isolating healthy carriers—his strategy was simply to deny that Mallon was one, and that she had been denied her fair day in court. The Board of Health of the City of New York ordered her back to the cottage on North Brother Island.</NOTES>
+    <IMAGE file="LFE-018_Typhoid_Mary_Mallon.jpg" imageX="-1" imageY="-1" caption="Originally printed New York American, June 20, 1909, p.6"/>
     <FILE>NB_0082</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>The publicity surrounding the lawsuit generated some sympathy for Mallon, from both prominent health officials outside of New York, and from readers of several of the popular newspapers of the day, most notably William Randolph Hearst’s tabloid,</NOTES>
+    <IMAGE file="Mallon-Mary_01.jpg" imageX="-1" imageY="-1"/>
     <FILE>NB_0083</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>the New York American.  On June 20, 1909, the American ran a two page spread identifying Mary Mallon as “Typhoid Mary” featuring a famous cartoon of a cook breaking egg-sized skulls into a frying pan. The article, “‘Typhoid Mary Most Harmless and Yet the Most Dangerous Woman in America” conveyed Mallon’s tragedy: “…she has committed no crime, has never been accused of an immoral or wicked act, and has never been a prisoner in an court, nor has she been sentenced to imprisonment by any judge.’” Yet, “It is probable that Mary Mallon is a prisoner for life.” The story was played for its sensational value, but the reporter’s sympathy for Mallon, punished so severely through no fault of her own, comes through.In 1910, the new New York State Commissioner of Health, Ernst J. Lederle decided that a social solution should be applied to the problem of healthy carriers generally, and to Mary Mallon in particular. On February 19, 1910, Mallon accepted the deal she had rejected three years earlier. She agreed to stop working as a cook, and to take precautions to avoid spreading disease. She was freed.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0084</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>In 1910, the new New York State Commissioner of Health, Ernst J. Lederle decided that a social solution should be applied to the problem of healthy carriers generally, and to Mary Mallon in particular. On February 19, 1910, Mallon accepted the deal she had rejected three years earlier. She agreed to stop working as a cook, and to take precautions to avoid spreading disease. She was freed.
+
+Mallon honored the terms of her release for a while, working as a laundress and in other positions of domestic service. These jobs were harder, dirtier, less prestigious and lower paying than cooking. She was alone in the world (Mr. Breihof died in the years between her two quarantines) and she was responsible for her own support. There was no social safety net. The Health Department’s failure to train Mallon for a job that paid as well as cooking eventually led her back to the kitchen, with predictable and unfortunate results. 
+
+In January of 1915, the Sloane Maternity Hospital in Manhattan had a major outbreak of typhoid fever. Twenty-five people were infected; two of them died. Stool samples were taken from the kitchen staff, and a recently hired cook named Mrs. Brown was</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0087</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>found to be carrying typhoid. Health officials recognized Mary Mallon in the description of Mrs. Brown and the hunt was on. Contemporary newspaper reports describe how police (immunized against typhoid) surrounded a house in Corona, Queens, climbed up to a second floor window, retreated in the face of barking dogs, climbed up the window a second time, this time with meat, and having distracted the dogs, entered the house through that window. Mary Mallon, aka Typhoid Mary, was found crouching in the corner of a bathroom.
+
+Once again, Mary Mallon was sent to her isolated cottage on North Brother Island. After Mallon’s second capture, the press uniformly ripped her to shreds.</NOTES>
+    <IMAGE file="typhoid-marys-cottage.jpg" imageX="698" imageY="427.55" caption="Mary Mallon's cottage. New York City Municipal Archives, Department of Public Charities Collection. Image No.2000"/>
     <FILE>NB_0088</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>Even less sensational media outlets like Scientific American joined in:  
+
+“The great trouble with Typhoid Mary has been her perversity, exceeding even that which obtains in her most temperamental of callings. She has never conceded herself a menace; she has not obeyed the sanitary directions given her; she would not wash and disinfect her hands as required; she will not change her occupation for one in which she will not endanger the lives of others; under an assumed name she had competed with the Wandering Jew in scattering destruction in her path.” The casual anti-Semitism in a story reviling a recalcitrant Irish cook is telling; America in Mallon's day was very upfront about its ethnic prejudices. 
+
+Over the years, the Health Department would register other food handlers as healthy typhoid carriers. A handful, like Mallon, continued to cook despite their health status. Was Mallon singled out for a life sentence because she was the first? A woman? Single? Irish? Working class? Because she was the one to legally challenge the Health Department’s authority to confine her? Was it because she chose to work in a maternity hospital, putting the most defenseless at risk (although it was the</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0091</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>staff, not newborns and their mothers, who were the victims of the outbreak at Sloane)?
+ 
+Throughout her first quarantine, she was perceived as a sympathetic and tragic figure, deprived of her freedom through no fault of her own. The second time around, she was seen as a figure of horror and evil, a willful spreader of death. This time, she did not
+fight against her confinement. She was allowed off the island for day trips to the city to visit the few friends she had. During her time on North Brother she worked as a "nurse," a "hospital helper," and in the hospital's lab. She even earned extra money by baking and selling cakes to the hospital’s intrepid staff. For most of that time, she was the only typhoid patient on the island. The handful of typhoid patients and/or carriers that came to the island stayed for a short time.
+
+It's uncertain exactly how many illnesses and deaths began with Typhoid Mary. At least three deaths and forty-seven illnesses are laid at her door, but the numbers could actually be much higher.
+
+She suffered a massive stroke in December of 1932, and she died of pneumonia in 1938. An autopsy showed a liver that was</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0092</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>Typhoid Mary died in a bungalo on North Brother Island in the year of 1856. If only she kept her promise she would have been able to live out her time amoung the healthy inhabitants of Brooklyn.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    Typhoid Mary: Jesus Mercy</TITLE>
+    <NOTES>that was heavily infected with Typhoid bacteria. 
+
+Her remains were cremated, and taken off the island to be buried at St. Raymond’s Cemetery in the Bronx, under a headstone she paid for herself. The headstone is inscribed “Jesus Mercy.” It is unclear if that is an endorsement or a plea.</NOTES>
+    <IMAGE file="2166_121355982064.jpg" imageX="697" imageY="271.05"/>
     <FILE>NB_0055</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>Nine eleven. Two numbers signify the disaster with the highest mortality rate in the city’s history. Now say the numbers six fifteen. Prior to September 11, 2001, the disaster with the highest death toll in New York City's history was the burning of the wooden side-wheeler paddle steamship General Slocum on June 15, 1904. An estimated 1,021 people perished by fire and water that day.
+
+It was a beautiful late spring morning, just perfect for a boat ride from the city to a church picnic on Locust Point on the north shore of Long Island. St. Mark's Lutheran church had chartered the General Slocum to carry its congregation to its seventeenth annual Sunday school picnic in Huntington.  An estimated one thousand three hundred and thirty-one people, mostly women and children from the East Village's Little</NOTES>
+    <IMAGE file="Gen. Slocum-D.jpg" imageX="702" imageY="460.8"/>
     <FILE>NB_0058</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>Typhoid Mary died in a bungalo on North Brother Island in the year of 1856. If only she kept her promise she would have been able to live out her time amoung the healthy inhabitants of Brooklyn.</NOTES>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>Germany (Kleindeutschland) neighborhood boarded the Slocum at the pier on Third Street and the East River. The boat was freshly painted for the beginning of the season; its white hull shone in the sun.  The passengers were primed to enjoy a rare and much-anticipated day of leisure. Although the program for the excursion posted a departure time of 8:45, the pastor agreed to the pleas of those on board to wait for latecomers. It was after 9:30 when the Slocum finally left the pier. A band was playing and the ship’s flags were flying.
+
+A young boy was the first to alert a crewmember that smoke was coming up from one of the stairways. He found John Coakley, a deckhand with two and a half weeks experience, knocking back a beer at the bar. It was not yet 10:00am. Coakley followed the smoke down to the lamp room in the ship’s bow. The lamp room was filled with flammable items such as kerosene, brass polish and oil paint. Clothing hung on the walls and three bags of charcoal were stashed near the door. Worst of all, dry hay that had been used to pack beer glasses for the church excursion was scattered over the floor. It turns out that hay is an even better accelerant than gasoline. Coakley saw the smoke escaping from the space under the</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0008</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>Instead of sailing to North Brother Island on the QT we were taken by the plesant folk of the Parks Department of NYC.</NOTES>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>lamp room’s heavy door. And then he opened that door. 
+
+The fire responded predictably to the rush of oxygen. Coakley decided to smother the small but growing fire. He lost time trying to free a piece of canvas that was tied to the floor and wound up grabbing one of the bags of charcoal. He threw it on the growing fire and ran to find the first mate, Ed Flanagan. And he forgot to close that door.While Coakley looked for Flanagan (and neglected to use the “blower,” or voice pipe, to inform Captain van Schaik about the fire) a twelve-year-old boy tried to alert the captain about the fire and smoke. The captain was preparing to maneuver the Slocum through the treacherous Hell Gate currents, and he irritably dismissed the boy. After all, if there were a fire, wouldn’t his crew have told him?
+
+When Coakley finally found the first mate, Flanagan’s first action was to run to the blower that ran up to the pilothouse to warn the captain that the ship was on fire. Then he ran to the engine room to enlist the chief engineer, Ben Conklin, in the firefighting effort. Flanagan sent Conklin to the pump that supplied water to the fire hoses, while
+while he headed to the fire station closest to</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0013</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>the fire. It was the first time in Conklin’s thirteen years on the Slocum that he saw any of the fire fighting equipment in use; Captain van Schaik had never run a fire drill. 
+Someone—later testimony from the crew was contradictory as to whom— attached the hose to its coupling while an inexperienced and untrained deck hand ran with the hose’s nozzle towards the fire. The hose, brittle with age and disuse, twisted every few feet along its length as it unfurled. 
+
+The First Mate opened the wheel valve and the water flowed. The flow became a trickle, dammed up by the twists in the hose. The crew had no time to fix the hose; the pressure inside built too quickly, and the cheaply made hose burst, sending water out from several holes, and none from the nozzle. The pressure tore the hose from its coupling, and water spread across the deck. The fire had made its way up the stairway, adding to the crew’s panic. 
+
+Walter Payne, the ship’s African-American porter, might yet have saved the day by bringing a rubber hose onto the scene. The crew’s panic and frustration continued to rise when they were unable to attach the new hose. No one noticed that the coupling from the broken hose was still in place.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0030_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>Flanagan’s panic got the best of him, and he ordered his crew to the lifeboats. They made no further attempts to fight the fire. The pastor of the congregation, the Rev. George C. F. Haas, stated, “In three minutes—it could not have been more—all three decks were ablaze… Why the Captain of the General Slocum did not beach the boat on the meadows I cannot understand. Instead, he kept straight ahead, the fresh wind from the Sound driving the flames back through the boat with lightninglike rapidity.” (The New York Times, June 16, 1904)
+
+Reports from other eyewitnesses confirmed the speed of the fire’s spread. The Astoria ferryboat Haarlem passed the Slocum as it entered Hell Gate at 10 o’clock. They saw happy passengers engaged in the business of enjoying themselves. The women and children were sporting colorful summer dresses and parasols, the band was playing, and the children were dancing. The revelers gave the Haarlem a cheer as they passed. 
+
+The next witnesses, from a viewpoint on the Astoria shore, reported that they could see white smoke as the ship disappeared from their view around the bend at Hackett’s Point. The band was still playing. The
+Slocum next caught the eye of the</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0038</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+   The Fire and the Water, this Time</TITLE>
+    <NOTES>Superintendent of the gas works at Casino Beach (near Astoria). He saw smoke coming from the forward part of the ship. One of his workers also noticed the smoke, and alerted the Superintendent. The smoke was increasing quickly now, and they realized the Slocum was on fire. The band was still playing. The boat was off the Sunken Meadows when the band finally stopped playing in the middle of a tune. The music gave way to the sound of thirteen hundred people screaming; their screams were heard on both sides of the river. 
+
+The smoke was now a wall of fire. Around one hundred and thirty fifth street, the ship swung sharply towards the Bronx, causing the boat to heel to its starboard (right) side. Dozens of passengers fell into the river. The captain changed his orders and the ship swung sharply away from the Bronx, this time losing passengers on the port side. The Slocum was now speeding towards North Brother Island, the wind whipping the fire back from the bow towards the passengers huddled on the stern. As the Slocum neared North Brother, the starboard rail of the upper deck collapsed, taking countless women and children into the river. The witnesses at the gas works
+reported that once the guardrail fell,</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0039</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
-    <IMAGE file="" imageX="-1" imageY="-1"/>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>set in, and women and children began jumping from the boat.
+
+Interviews with survivors of the Slocum disaster generally follow a similar arc: the loveliness of the day, the excitement of the passengers on the excursion, the band playing, the puff of smoke, the laughing off of what that smoke meant, the horror and panic when the smoke gave way to flame. The passengers’ stories matched up in another regard: the crew had failed to come</NOTES>
+    <IMAGE file="slocum_route_mlb.jpg" imageX="700" imageY="312.7"/>
     <FILE>NB_0040_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
-    <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
+    The Fire and the Water, this Time</TITLE>
+    <NOTES>to their aid, and the lifejackets on board were difficult to reach and filled with old rotted cork. The cork dust inside the life jackets absorbed water, so that instead of supplying buoyancy, they actually added weight to the fully dressed passengers, most of who could not swim. Mothers who were lucky enough to get lifejackets to put on their children would throw them into the river only to watch them sink like stones. Many of the life jackets were so rotten they ripped apart before they could even be put on. The lifeboats were similarly useless: they had been tied down with wire and crew and passengers alike were unable to free them.
+
+Although the crew failed utterly to provide leadership and direction to the passengers, there were many acts of heroism on the river that day. Pastor Haas urged calm as he hurried towards the fire in the promenade deck’s main cabin. He sought to slow the fire’s spread by closing the cabin’s double doors, creating a barrier between the fire and the stern. He closed the right door, but the left door had expanded from the heat, and was sticky with layers of paint and varnish. It would not budge.  The pastor sustained serious burns in his struggle to contain the fire. As the Slocum sped to North Brother Island, it was pursued by all manner of</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0041_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+   The Fire and the Water, this Time</TITLE>
     <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0044</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+    The Fire and the Water, this Time</TITLE>
     <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0045</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+    The Fire and the Water, this Time</TITLE>
     <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0047</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+   The Fire and the Water, this Time</TITLE>
     <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0048</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+    The Fire and the Water, this Time</TITLE>
     <NOTES>maybe DELETE</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0049</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
-    A History in 3D</TITLE>
+    The Fire and the Water, this Time</TITLE>
     <NOTES>There was a ringing in my ears from all the noise of our unspoken words. My heart was broken but not the spirit. These bells rang every day for 1000 years and then they went silent.</NOTES>
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0050_dot</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
@@ -523,7 +522,6 @@ Her remains were cremated, and she was finally allowed off the island to be buri
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0051</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
@@ -531,7 +529,6 @@ Her remains were cremated, and she was finally allowed off the island to be buri
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0094</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
@@ -539,7 +536,6 @@ Her remains were cremated, and she was finally allowed off the island to be buri
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0014</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
@@ -547,7 +543,6 @@ Her remains were cremated, and she was finally allowed off the island to be buri
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0017</FILE>
   </PAGE>
-  
   <PAGE>
     <TITLE>North Brother Island
     A History in 3D</TITLE>
@@ -555,5 +550,37 @@ Her remains were cremated, and she was finally allowed off the island to be buri
     <IMAGE file="" imageX="-1" imageY="-1"/>
     <FILE>NB_0019</FILE>
   </PAGE>
+  <PAGE>
+    <TITLE>North Brother Island
+    A History in 3D</TITLE>
+    <NOTES>
+      <LEFT>There was a time when North Brother Island was every bit as known, and feared, as Rikers Island. This is the story of the island before North Brother’s abandoned hospital buildings became choked with kudzu and porcelain berry. Before the herons took it over, and then abandoned it (recent surveys show a decrease in signs of nesting activity), North Brother was home to the souls the city refused to shelter.
+The city built Riverside Hospital on North Brother in 1885. It replaced the city’s original quarantine hospital, also called Riverside. The first Riverside Hospital was on Blackwell's Island, later called Welfare Island, and now known as Roosevelt Island. Prior to the hospital’s development, North Brother’s only regular residents were the lighthouse keeper and his wife. In addition to the lighthouse, there was a small old frame shack, supposedly</LEFT>
+      <RIGHT>By 1914, most of Riverside's patients were quarantined for tuberculosis or venereal diseases. Riverside functioned as a quarantine.
 
+A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
+
+Riverside was abandoned and then repurposed for GI housing after passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
+
+A large tuberculosis pavilion was built on the island in 1941, but the hospital closed before it was ever used.
+
+Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
+
+Riverside was abandoned and then repurposed for GI housing after the passing of the GI Bill after WWII. Veteran college students and their families were transported to and from the island via the E 134th Street Ferry Terminal, by the ferry boats Mott Haven and Greenwich Village. This was North Brother's golden age; the only time its inhabitants were happy to be there.
+
+More text at the end  here to test editing.</RIGHT>
+    </NOTES>
+    <IMAGE file="north_brother_satellite.jpg" imageX="57" imageY="402.45"/>
+    <FILE/>
+  </PAGE>
+  <PAGE>
+    <TITLE>North Brother Island
+    A History in 3D</TITLE>
+    <NOTES>
+      <LEFT>Starter Text</LEFT>
+      <RIGHT>Starter Text</RIGHT>
+    </NOTES>
+    <IMAGE file="" imageX="-1" imageY="-1"/>
+    <FILE/>
+  </PAGE>
 </NBSTEREOEEBOOK>

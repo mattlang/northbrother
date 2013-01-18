@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/3.2">
     <id>StereoViewer</id>
-    <versionNumber>1.0.2</versionNumber>
+    <versionNumber>1.0.6</versionNumber>
     <filename>StereoViewer</filename>
     <description></description>
     <!-- To localize the description, use the following format for the description element.
@@ -28,7 +28,7 @@
         <fullScreen>true</fullScreen>
         <autoOrients>false</autoOrients>
         <aspectRatio>landscape</aspectRatio>
-        <renderMode>gpu</renderMode>
+        <renderMode>direct</renderMode>
         <maximizable>true</maximizable>
         <minimizable>true</minimizable>
         <resizable>true</resizable>
@@ -39,10 +39,6 @@
         <image36x36>AppIconsForPublish/logo_36.png</image36x36>
         <image48x48>AppIconsForPublish/logo_48.png</image48x48>
         <image72x72>AppIconsForPublish/logo_72.png</image72x72>
-        <image29x29>AppIconsForPublish/logo_29.png</image29x29>
-        <image57x57>AppIconsForPublish/logo_57.png</image57x57>
-        <image114x114>AppIconsForPublish/logo_114.png</image114x114>
-        <image512x512>AppIconsForPublish/logo_512.png</image512x512>
     </icon>
     <android>
         <manifestAdditions><![CDATA[<manifest></manifest>]]></manifestAdditions>
