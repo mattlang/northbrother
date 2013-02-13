@@ -1,7 +1,8 @@
 <NBSTEREOEEBOOK>
-  <VARIABLES numOfScreens="60" editmode="false"/>
+  <VARIABLES numOfScreens="5" editmode="false"/>
   <text_variables fontsize="14" headingfontsize="16" fontcolor1="0xEEEEEE" fontcolor2="0x000000" leading="2"/>
-  <PAGE>
+ <PAGE>placeholder for title page</PAGE>
+ <PAGE>
     <TITLE>North Brother Island
 About the 3D</TITLE>
     <NOTES>The 3D images in this work were created with a technique that was developed by the Swiss artist Alfons Schilling. He discovered  alternating frame 3D (wiggle 3D) while experimenting with 3D vision and other optical phenomena.
