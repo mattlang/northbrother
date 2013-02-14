@@ -1,1 +1,0 @@
-﻿package com.blackhammer.game{		import flash.display.MovieClip;		public class Arrow extends MovieClip {				private var _arrow:MovieClip = new arrow();				public function Arrow ():void {			this.visible = false;			addChild(_arrow);		}			public function Hide():void {			this.visible = false;		}				public function Show():void {			this.visible = true;		}		}}
