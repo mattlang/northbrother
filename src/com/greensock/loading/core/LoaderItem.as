@@ -1,12 +1,13 @@
 /**
- * VERSION: 1.884
- * DATE: 2011-10-06
+ * VERSION: 1.92
+ * DATE: 2012-08-08
  * AS3
  * UPDATES AND DOCS AT: http://www.greensock.com/loadermax/
  **/
 package com.greensock.loading.core {
 	import com.greensock.events.LoaderEvent;
 	import com.greensock.loading.LoaderStatus;
+	import com.greensock.loading.LoaderMax;
 	
 	import flash.events.Event;
 	import flash.events.ProgressEvent;
@@ -22,7 +23,7 @@ package com.greensock.loading.core {
  * Please see the documentation for the other classes.
  * <br /><br />
  * 
- * <b>Copyright 2012, GreenSock. All rights reserved.</b> This work is subject to the terms in <a href="http://www.greensock.com/terms_of_use.html">http://www.greensock.com/terms_of_use.html</a> or for corporate Club GreenSock members, the software agreement that was issued with the corporate membership.
+ * <b>Copyright 2010-2012, GreenSock. All rights reserved.</b> This work is subject to the terms in <a href="http://www.greensock.com/terms_of_use.html">http://www.greensock.com/terms_of_use.html</a> or for corporate Club GreenSock members, the software agreement that was issued with the corporate membership.
  * 
  * @author Jack Doyle, jack@greensock.com
  */	
@@ -198,6 +199,9 @@ package com.greensock.loading.core {
 				_setRequestURL(_request, _url);
 				var isLoading:Boolean = Boolean(_status == LoaderStatus.LOADING);
 				_dump(1, LoaderStatus.READY, true);
+				_auditedSize = Boolean(uint(this.vars.estimatedBytes) != 0 && this.vars.auditSize != true);
+				_cachedBytesTotal = (uint(this.vars.estimatedBytes) != 0) ? uint(this.vars.estimatedBytes) : LoaderMax.defaultEstimatedBytes;
+				_cacheIsDirty = true;
 				if (isLoading) {
 					_load();
 				}

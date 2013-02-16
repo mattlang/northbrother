@@ -17,7 +17,7 @@ package com.greensock {
 	import flash.geom.Rectangle;
 	import flash.geom.Transform;
 /**
- * [AS3 only] A BlitMask is basically a rectangular Sprite that acts as a high-performance mask for a DisplayObject
+ * A BlitMask is basically a rectangular Sprite that acts as a high-performance mask for a DisplayObject
  * by caching a bitmap version of it and blitting only the pixels that should be visible at any given time,
  * although its <code>bitmapMode</code> can be turned off to restore interactivity in the DisplayObject 
  * whenever you want. When scrolling very large images or text blocks, a BlitMask can greatly improve 

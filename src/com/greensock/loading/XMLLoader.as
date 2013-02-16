@@ -118,10 +118,6 @@ function completeHandler(event:LoaderEvent):void {
 }
 </listing>
  * 
- * Since XML is essentially text/string data, you cannot reference functions. Therefore it isn't possible
- * to define onComplete, onInit, onError, etc. listeners inside XML. You can, however, add those via ActionScript once
- * the XMLLoader has parsed the loaders. Simply use the standard <code>addEventListener()</code> method for that. 
- * 
  * <strong>OPTIONAL VARS PROPERTIES</strong><br />
  * The following special properties can be passed into the XMLLoader constructor via its <code>vars</code> 
  * parameter which can be either a generic object or an <code><a href="data/XMLLoaderVars.html">XMLLoaderVars</a></code> object:<br />

@@ -1,6 +1,6 @@
 /**
- * VERSION: 1.896
- * DATE: 2012-01-06
+ * VERSION: 1.895
+ * DATE: 2011-11-27
  * AS3
  * UPDATES AND DOCS AT: http://www.greensock.com/loadermax/
  **/
@@ -41,7 +41,7 @@ package com.greensock.loading.display {
  * After that, all ImageLoaders, SWFLoaders, and VideoLoaders will return FlexContentDisplay objects 
  * as their <code>content</code> instead of regular ContentDisplay objects. <br /><br />
  * 
- * <b>Copyright 2009-2012, GreenSock. All rights reserved.</b> This work is subject to the terms in <a href="http://www.greensock.com/terms_of_use.html">http://www.greensock.com/terms_of_use.html</a> or for corporate Club GreenSock members, the software agreement that was issued with the corporate membership.
+ * <b>Copyright 2011, GreenSock. All rights reserved.</b> This work is subject to the terms in <a href="http://www.greensock.com/terms_of_use.html">http://www.greensock.com/terms_of_use.html</a> or for corporate Club GreenSock members, the software agreement that was issued with the corporate membership.
  * 
  * @author Jack Doyle, jack@greensock.com
  */	
@@ -148,13 +148,6 @@ package com.greensock.loading.display {
 					nativeBounds = mc.loaderInfo; //for SWFLoaders, use loaderInfo.width/height so that everything is based on the stage size, not the bounding box of the DisplayObjects that happen to be on the stage (which could be much larger or smaller than the swf's stage)
 				} else {
 					nativeBounds = mc.getBounds(mc);
-				}
-				if (nativeBounds is LoaderInfo && _loader != null && _loader.progress < 1) {
-					try {
-						contentWidth = nativeBounds.width; //if not enough of the file has loaded, this can throw a runtime error saying that the "width" isn't known yet.
-					} catch (error:Error) {
-						nativeBounds = mc.getBounds(mc);
-					}
 				}
 				contentWidth = nativeBounds.width * Math.abs(m.a) + nativeBounds.height * Math.abs(m.b);
 				contentHeight = nativeBounds.width * Math.abs(m.c) + nativeBounds.height * Math.abs(m.d);

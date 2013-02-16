@@ -1,14 +1,15 @@
 /**
- * VERSION: 12.0
- * DATE: 2012-01-12
- * AS3
- * UPDATES AND DOCS AT: http://www.greensock.com
+ * VERSION: 1.03
+ * DATE: 10/2/2009
+ * ACTIONSCRIPT VERSION: 3.0 
+ * UPDATES AND DOCUMENTATION AT: http://www.TweenMax.com
  **/
 package com.greensock.plugins {
-	import com.greensock.TweenLite;
-	import flash.display.MovieClip;
+	import com.greensock.*;
+	
+	import flash.display.*;
 /**
- * [AS3/AS2 only] Tweens a MovieClip to a particular frame number. <br /><br />
+ * Tweens a MovieClip to a particular frame number. <br /><br />
  * 
  * <b>USAGE:</b><br /><br />
  * <code>
@@ -29,7 +30,7 @@ package com.greensock.plugins {
  */
 	public class FramePlugin extends TweenPlugin {
 		/** @private **/
-		public static const API:Number = 2; //If the API/Framework for plugins changes in the future, this number helps determine compatibility
+		public static const API:Number = 1.0; //If the API/Framework for plugins changes in the future, this number helps determine compatibility
 		
 		/** @private **/
 		public var frame:int;
@@ -38,23 +39,26 @@ package com.greensock.plugins {
 		
 		/** @private **/
 		public function FramePlugin() {
-			super("frame,frameLabel,frameForward,frameBackward");
+			super();
+			this.propName = "frame";
+			this.overwriteProps = ["frame","frameLabel"];
+			this.round = true;
 		}
 		
 		/** @private **/
-		override public function _onInitTween(target:Object, value:*, tween:TweenLite):Boolean {
+		override public function onInitTween(target:Object, value:*, tween:TweenLite):Boolean {
 			if (!(target is MovieClip) || isNaN(value)) {
 				return false;
 			}
 			_target = target as MovieClip;
 			this.frame = _target.currentFrame;
-			_addTween(this, "frame", this.frame, value, "frame", true);
+			addTween(this, "frame", this.frame, value, "frame");
 			return true;
 		}
 		
 		/** @private **/
-		override public function setRatio(v:Number):void {
-			super.setRatio(v);
+		override public function set changeFactor(n:Number):void {
+			updateTweens(n);
 			_target.gotoAndStop(this.frame);
 		}
 

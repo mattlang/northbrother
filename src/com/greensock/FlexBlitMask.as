@@ -20,7 +20,7 @@ package com.greensock {
 	
 	import mx.core.UIComponent;
 /**
- * [AS3 only] A FlexBlitMask is basically a rectangular UIComponent that acts as a high-performance mask for a DisplayObject
+ * A FlexBlitMask is basically a rectangular UIComponent that acts as a high-performance mask for a DisplayObject
  * by caching a bitmap version of it and blitting only the pixels that should be visible at any given time,
  * although its <code>bitmapMode</code> can be turned off to restore interactivity in the DisplayObject 
  * whenever you want. It is a Flex-friendly version of BlitMask. When scrolling very large images or text 

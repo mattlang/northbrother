@@ -6,7 +6,7 @@
  **/
 package com.greensock.easing {
 /**
- * [AS3/AS2 only] Most easing equations give a smooth, gradual transition between the start and end values, but RoughEase provides
+ * Most easing equations give a smooth, gradual transition between the start and end values, but RoughEase provides
  * an easy way to get a rough, jagged effect instead. You can define an ease that it will use as a template (like a
  * general guide - Linear.easeNone is the default) and then it will randomly plot points that wander from that template. 
  * The strength parameter controls how far from the template ease the points are allowed to go (a small number like

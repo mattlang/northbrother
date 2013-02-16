@@ -1,16 +1,17 @@
 /**
- * VERSION: 12.0
- * DATE: 2012-01-14
- * AS3
- * UPDATES AND DOCS AT: http://www.greensock.com
+ * VERSION: 0.5
+ * DATE: 2010-07-20
+ * ACTIONSCRIPT VERSION: 3.0 
+ * UPDATES AND DOCUMENTATION AT: http://www.TweenMax.com
  **/
 package com.greensock.plugins {
-	import com.greensock.TweenLite;
+	import com.greensock.*;
+	
 	import flash.display.Stage;
 	import flash.display.StageQuality;
 /**
- * [AS3 only] Sets the stage's <code>quality</code> to a particular value during a tween and another value after
- * the tween which can be useful for improving rendering performance in the Flash Player while things are animating. <br /><br />
+ * Sets the stage's <code>quality</code> to a particular value during a tween and another value after
+ * the tween which can be useful for improving rendering performance in the Flash Player while things are animating.<br /><br />
  * 
  * <b>USAGE:</b><br /><br />
  * <code>
@@ -29,7 +30,7 @@ package com.greensock.plugins {
  */
 	public class StageQualityPlugin extends TweenPlugin {
 		/** @private **/
-		public static const API:Number = 2; //If the API/Framework for plugins changes in the future, this number helps determine compatibility
+		public static const API:Number = 1.0; //If the API/Framework for plugins changes in the future, this number helps determine compatibility
 		
 		/** @private **/
 		protected var _stage:Stage;
@@ -42,11 +43,13 @@ package com.greensock.plugins {
 		
 		/** @private **/
 		public function StageQualityPlugin() {
-			super("stageQuality");
+			super();
+			this.propName = "stageQuality";
+			this.overwriteProps = ["stageQuality"];
 		}
 		
 		/** @private **/
-		override public function _onInitTween(target:Object, value:*, tween:TweenLite):Boolean {
+		override public function onInitTween(target:Object, value:*, tween:TweenLite):Boolean {
 			if (!(value.stage is Stage)) {
 				trace("You must define a 'stage' property for the stageQuality object in your tween.");
 				return false;
@@ -59,8 +62,8 @@ package com.greensock.plugins {
 		}
 		
 		/** @private **/
-		override public function setRatio(v:Number):void {
-			if ((v == 1 && _tween._duration == _tween._time) || (v == 0 && _tween._time == 0)) { //a changeFactor of 1 doesn't necessarily mean the tween is done - if the ease is Elastic.easeOut or Back.easeOut for example, they could hit 1 mid-tween. The reason we check to see if cachedTime is 0 is for from() tweens
+		override public function set changeFactor(n:Number):void {
+			if (_tween.cachedDuration == _tween.cachedTime || _tween.cachedTime == 0) { //a changeFactor of 1 doesn't necessarily mean the tween is done - if the ease is Elastic.easeOut or Back.easeOut for example, they could hit 1 mid-tween. The reason we check to see if cachedTime is 0 is for from() tweens
 				_stage.quality = _after;
 			} else if (_stage.quality != _during) {
 				_stage.quality = _during;
