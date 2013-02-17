@@ -1,5 +1,5 @@
 <NBSTEREOEEBOOK>
-  <VARIABLES numOfScreens="10" editmode="false"/>
+  <VARIABLES numOfScreens="60" editmode="false" showmetrics="true"/>
   <text_variables fontsize="14" headingfontsize="16" fontcolor1="0xEEEEEE" fontcolor2="0x000000" leading="2"/>
  <PAGE>placeholder for title page</PAGE>
  <PAGE>
